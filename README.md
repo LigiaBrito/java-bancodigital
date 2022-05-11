@@ -1,4 +1,4 @@
-# Banco Digital
+#  Banco Digital
 <p align="center">
   <img src=preview.gif>
 </p>
@@ -12,14 +12,14 @@ Banco Digital é um aplicativo java com o intuito de replicar um sistema bancár
  - cadastrar conta
  - validar autenticação
 
-## Pré-Requisitos
+## :computer: Pré-Requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - Instalar o [MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
 
-## Installation
+## :rocket: Instalação
 - Clonar o repositório `https://github.com/LigiaBrito/java-bancodigital.git`
 
-## Usando o Banco Digital
+## :coffee: Usando o Banco Digital
 Para usar Banco Digital, siga estas etapas:
 - Inicie o seu mysql e importe os comandos sql do arquivo bancodigital.sql dentro de src/banco/script
 - Acesse o diretório BancoDigital e entre na pasta dist. Dentro de dist execute o arquivo BancoDigital.jar
