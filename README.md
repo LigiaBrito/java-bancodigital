@@ -21,6 +21,6 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## Usando o Banco Digital
 Para usar Banco Digital, siga estas etapas:
-- Inicie o seu mysql e importe os comandos do arquivo
+- Inicie o seu mysql e importe os comandos sql do arquivo bancodigital.sql dentro de src/banco/script
 - Acesse o diretório BancoDigital e entre na pasta dist. Dentro de dist execute o arquivo BancoDigital.jar
 
