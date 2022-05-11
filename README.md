@@ -1,6 +1,6 @@
 # Banco Digital
 <p align="center">
-  <img src=>
+  <img src=preview.gif>
 </p>
 Banco Digital é um aplicativo java com o intuito de replicar um sistema bancário e suas operações como:
  - realizar transferência
