@@ -3,14 +3,16 @@
   <img src=preview.gif>
 </p>
 Banco Digital é um aplicativo java com o intuito de replicar um sistema bancário e suas operações como:
- - realizar transferência
- - tirar extrato
- - fazer depósito
- - fazer saque
- - ver saldo
- - ver conta
- - cadastrar conta
- - validar autenticação
+<ul>
+  <li>realizar transferência</li>
+  <li>tirar extrato</li>
+  <li>fazer depósito</li>
+  <li>fazer saque</li>
+  <li>ver saldo</li>
+  <li>ver conta</li>
+  <li>cadastrar conta</li>
+  <li>validar autenticação</li>
+</ul>
 
 ## :computer: Pré-Requisitos
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
